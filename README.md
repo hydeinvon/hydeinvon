@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm trying to learn everything without crashing out.
+A Computer Science student.
 
 
 ## 🌐 Socials:
